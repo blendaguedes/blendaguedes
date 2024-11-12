@@ -1,6 +1,6 @@
 ### Oi, I'm Blenda 👩🏻‍💻💪🐈‍⬛🪐🌖
 
-I am a Data Scientist with a master in Applied Computing, also an **Astronomy** lover. 
+I am a Data Scientist and PhD candidate in Computer Science, also an **Astronomy** lover. 
 
 Moveover, my goal is to explore 🔭 and create 💻 Data Science Projects. 
 
